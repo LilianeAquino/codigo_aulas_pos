@@ -1,0 +1,569 @@
+a par de,argumentativo
+a par disso,argumentativo
+a ponto de,argumentativo
+ acaba que,argumentativo
+acabou que,argumentativo
+ademais,argumentativo
+afim de,argumentativo
+afinal,argumentativo
+ainda,argumentativo
+ainda que,argumentativo
+além disso,argumentativo
+além do,argumentativo
+aliás,argumentativo
+ao contrário,argumentativo
+ao menos,argumentativo
+apenas,argumentativo
+apesar de,argumentativo
+assim,argumentativo
+até,argumentativo
+até mesmo,argumentativo
+caso,argumentativo 
+com a intenção de,argumentativo
+com isso,argumentativo
+como,argumentativo
+como consequência,argumentativo
+em consequência,argumentativo
+consequentemente,argumentativo
+contrariamente,argumentativo
+contudo,argumentativo
+de certa forma,argumentativo
+de modo que,argumentativo
+de um lado,argumentativo
+desde que,argumentativo
+desse modo,argumentativo
+deste modo,argumentativo
+do contrário,argumentativo
+e,argumentativo
+e não,argumentativo
+em decorrência,argumentativo
+em função,argumentativo
+em lugar,argumentativo 
+em suma,argumentativo
+em vez,argumentativo 
+embora,argumentativo
+enfim,argumentativo
+enquanto,argumentativo
+então,argumentativo 
+entretanto,argumentativo
+fora isso,argumentativo
+incluindo,argumentativo
+inclusive,argumentativo
+isso é,argumentativo
+isto é,argumentativo
+já que,argumentativo
+justamente,argumentativo
+logicamente,argumentativo
+logo,argumentativo
+mais que,argumentativo
+mas,argumentativo
+mas também,argumentativo
+menos que,argumentativo
+mesmo,argumentativo
+mesmo assim,argumentativo
+mesmo que,argumentativo
+muito menos,argumentativo
+na medida que,argumentativo
+nada mais que,argumentativo
+não fosse isso,argumentativo
+não mais que,argumentativo
+não obstante,argumentativo
+não só,argumentativo
+nem,argumentativo
+nem mesmo,argumentativo
+nem por isso,argumentativo
+nessa direção,argumentativo
+nesse sentido,argumentativo
+no entanto,argumentativo
+no intuito,argumentativo
+no mesmo sentido,argumentativo
+no mínimo,argumentativo
+ou,argumentativo
+ou então,argumentativo
+ou mesmo,argumentativo
+ou seja,argumentativo
+para que,argumentativo
+para tanto,argumentativo
+pelo contrário,argumentativo
+pelo menos,argumentativo
+pois,argumentativo
+por causa,argumentativo
+por conseguinte,argumentativo
+por essa razão,argumentativo
+por isso,argumentativo
+por outro lado,argumentativo
+por sinal,argumentativo
+por sua vez,argumentativo
+porém,argumentativo
+porque,argumentativo
+portanto,argumentativo
+posto que,argumentativo
+quando,argumentativo
+quando muito,argumentativo
+quanto,argumentativo
+se,argumentativo
+se acaso,argumentativo
+senão,argumentativo
+sendo assim,argumentativo
+sequer,argumentativo
+só,argumentativo
+somente,argumentativo
+também,argumentativo
+tampouco,argumentativo
+tanto,argumentativo
+tanto que,argumentativo
+tão,argumentativo
+todavia,argumentativo
+uma vez que,argumentativo
+visto que,argumentativo
+agora,pressuposicao
+ainda,pressuposicao
+antes de,pressuposicao
+antes que,pressuposicao
+atualmente,pressuposicao
+de novo,pressuposicao
+depois de,pressuposicao
+depois que,pressuposicao
+desde que,pressuposicao
+diz respeito a,pressuposicao
+é bom que,pressuposicao
+era bom que,pressuposicao
+foi bom que,pressuposicao
+hoje em dia,pressuposicao
+já,pressuposicao
+levando-se em conta,pressuposicao
+nesse momento,pressuposicao
+no momento,pressuposicao
+novamente,pressuposicao
+por mais que,pressuposicao
+posto que,pressuposicao
+abominar,pressuposicao 
+adivinhar,pressuposicao 
+admirar,pressuposicao 
+adorar,pressuposicao 
+amar,pressuposicao 
+apreciar,pressuposicao  
+compreender,pressuposicao 
+conseguir,pressuposicao 
+constatar,pressuposicao 
+curtir,pressuposicao  
+desapreciar,pressuposicao  
+descobrir,pressuposicao 
+desprezar,pressuposicao 
+detestar,pressuposicao 
+entender,pressuposicao 
+esquecer,pressuposicao 
+estimar,pressuposicao 
+estranhar,pressuposicao 
+execrar,pressuposicao 
+gostar,pressuposicao 
+idolatrar,pressuposicao 
+ignorar,pressuposicao 
+invejar,pressuposicao 
+lamentar,pressuposicao 
+lastimar,pressuposicao 
+lembrar,pressuposicao 
+menosprezar,pressuposicao 
+notar,pressuposicao 
+observar,pressuposicao 
+odiar,pressuposicao 
+perceber,pressuposicao 
+perdeu,pressuposicao 
+prezar,pressuposicao 
+reconhecer,pressuposicao 
+reparar,pressuposicao 
+repudiar,pressuposicao 
+respeitar,pressuposicao 
+reverenciar,pressuposicao 
+saber,pressuposicao 
+sentir,pressuposicao 
+subestimar,pressuposicao 
+superestimar,pressuposicao 
+terminar,pressuposicao 
+venerar,pressuposicao 
+ver,pressuposicao 
+abismar,pressuposicao 
+abobalhar,pressuposicao 
+abobar,pressuposicao 
+aborrecer,pressuposicao 
+acabrunhar,pressuposicao 
+acalmar,pressuposicao  
+acovardar,pressuposicao 
+afligir,pressuposicao 
+agastar,pressuposicao 
+agoniar,pressuposicao 
+alarmar,pressuposicao 
+alegrar,pressuposicao 
+alucinar,pressuposicao 
+alvoroçar,pressuposicao 
+amargurar,pressuposicao 
+amedrontar,pressuposicao 
+amofinar,pressuposicao 
+amuar,pressuposicao 
+angustiar,pressuposicao 
+animar,pressuposicao 
+apalermar,pressuposicao
+apavorar,pressuposicao
+aperrear,pressuposicao
+apoquentar,pressuposicao
+aporrinhar,pressuposicao
+assombrar,pressuposicao
+assustar,pressuposicao
+atazanar,pressuposicao
+atemorizar,pressuposicao
+aterrorizar,pressuposicao
+atordoar,pressuposicao
+atormentar,pressuposicao
+aturdir,pressuposicao
+azucrinar,pressuposicao
+baratinar,pressuposicao
+chatear,pressuposicao
+comover,pressuposicao
+confortar,pressuposicao
+confundir,pressuposicao
+consolar,pressuposicao
+constranger,pressuposicao
+contentar,pressuposicao
+contrariar,pressuposicao
+conturbar,pressuposicao
+decepcionar,pressuposicao
+deprimir,pressuposicao
+desalentar,pressuposicao
+desanimar,pressuposicao
+desapontar,pressuposicao
+desassossegar,pressuposicao
+desatinar,pressuposicao
+desconcertar,pressuposicao
+desconsolar,pressuposicao
+descontentar,pressuposicao
+desencantar,pressuposicao
+desencorajar,pressuposicao
+desesperar,pressuposicao
+desestimular,pressuposicao 
+desgostar,pressuposicao
+desiludir,pressuposicao
+deslumbrar,pressuposicao
+desnortear,pressuposicao
+desoprimir,pressuposicao
+distrair,pressuposicao 
+emburrar,pressuposicao
+emocionar,pressuposicao 
+empolgar,pressuposicao 
+enamorar,pressuposicao
+encabular,pressuposicao
+encantar,pressuposicao
+enciumar,pressuposicao
+encolerizar,pressuposicao
+encorajar,pressuposicao
+enervar,pressuposicao
+enfadar,pressuposicao
+enfeitiçar,pressuposicao 
+enfezar,pressuposicao
+enfurecer,pressuposicao
+enlevar,pressuposicao
+enojar,pressuposicao 
+enraivecer,pressuposicao
+entediar,pressuposicao 
+enternecer,pressuposicao
+entreter,pressuposicao
+entristecer,pressuposicao
+entusiasmar,pressuposicao
+envaidecer,pressuposicao
+envergonhar,pressuposicao
+escandalizar,pressuposicao
+esmorecer,pressuposicao
+espantar,pressuposicao
+estarrecer,pressuposicao
+estimular,pressuposicao
+estontear,pressuposicao
+estressar,pressuposicao
+exasperar,pressuposicao
+excitar,pressuposicao
+extasiar,pressuposicao
+fascinar,pressuposicao
+frustar,pressuposicao
+grilar,pressuposicao
+horripilar,pressuposicao
+horrorizar,pressuposicao
+iludir,pressuposicao
+impacientar,pressuposicao
+importunar,pressuposicao
+impressionar,pressuposicao
+incomodar,pressuposicao
+indignar,pressuposicao
+inebriar,pressuposicao
+inquietar,pressuposicao
+insensibilizar,pressuposicao
+intimidar,pressuposicao
+intranquilizar,pressuposicao
+intrigar,pressuposicao
+irar,pressuposicao
+irritar,pressuposicao
+magoar,pressuposicao
+maravilhar,pressuposicao
+melindrar,pressuposicao 
+ofender,pressuposicao
+oprimir,pressuposicao
+pasmar,pressuposicao
+perturbar,pressuposicao
+preocupar,pressuposicao
+recalcar,pressuposicao
+reconfortar,pressuposicao
+reprimir,pressuposicao
+revoltar,pressuposicao
+seduzir,pressuposicao
+sensibilizar,pressuposicao 
+serenar,pressuposicao
+sobressaltar,pressuposicao
+sossegar,pressuposicao
+surpreender,pressuposicao
+suscetibilizar,pressuposicao
+tranquilizar,pressuposicao
+transtornar,pressuposicao
+vexa,pressuposicao
+acabar,pressuposicao
+começar,pressuposicao  
+continuar,pressuposicao 
+deixar,pressuposicao 
+iniciar,pressuposicao 
+parar,pressuposicao 
+passar a,pressuposicao
+aparentemente,possibilidade_necessidade
+basicamente,possibilidade_necessidade
+certamente,possibilidade_necessidade
+claramente,possibilidade_necessidade
+com certeza,possibilidade_necessidade
+de fato,possibilidade_necessidade
+decididamente,possibilidade_necessidade
+dificilmente,possibilidade_necessidade
+é aconselhável que,possibilidade_necessidade
+é certo que,possibilidade_necessidade
+é claro que,possibilidade_necessidade
+é conveniente que,possibilidade_necessidade
+é desnecessário que,possibilidade_necessidade
+é difícil que,possibilidade_necessidade
+é duvidoso que,possibilidade_necessidade
+é esperado que,possibilidade_necessidade
+é evidente que,possibilidade_necessidade
+é facultativo que,possibilidade_necessidade
+é fato que,possibilidade_necessidade
+é fundamental que,possibilidade_necessidade
+é importante que,possibilidade_necessidade
+é impossível que,possibilidade_necessidade
+é improvável que,possibilidade_necessidade
+é indubitável que,possibilidade_necessidade
+é inegável que,possibilidade_necessidade
+é inevitável que,possibilidade_necessidade
+é lógico que,possibilidade_necessidade
+é necessário que,possibilidade_necessidade
+é obrigatório que,possibilidade_necessidade
+é óbvio que,possibilidade_necessidade
+é possível que,possibilidade_necessidade
+é preciso que,possibilidade_necessidade
+é presumível que,possibilidade_necessidade
+é provável que,possibilidade_necessidade
+é recomendável que,possibilidade_necessidade
+é seguro que,possibilidade_necessidade
+efetivamente,possibilidade_necessidade
+estão falando que,possibilidade_necessidade
+eventualmente,possibilidade_necessidade
+evidentemente,possibilidade_necessidade
+facultativamente,possibilidade_necessidade
+ fala-se que,possibilidade_necessidade
+falou-se que,possibilidade_necessidade
+gostaria que,possibilidade_necessidade
+gostariam que,possibilidade_necessidade
+gostaríamos que,possibilidade_necessidade
+imaginar que,possibilidade_necessidade
+indubitavelmente,possibilidade_necessidade
+inegavelmente,possibilidade_necessidade
+inevitavelmente,possibilidade_necessidade
+logicamente,possibilidade_necessidade  
+na realidade,possibilidade_necessidade
+na verdade,possibilidade_necessidade
+nada impede que,possibilidade_necessidade
+necessariamente,possibilidade_necessidade
+obrigatoriamente,possibilidade_necessidade
+obviamente,possibilidade_necessidade
+possivelmente,possibilidade_necessidade
+presumivelmente,possibilidade_necessidade
+provavelmente,possibilidade_necessidade
+realmente,possibilidade_necessidade
+seguramente,possibilidade_necessidade
+sem dúvida,possibilidade_necessidade
+será que,possibilidade_necessidade
+talvez,possibilidade_necessidade
+achar que,possibilidade_necessidade 
+acreditar que,possibilidade_necessidade 
+bastar que,possibilidade_necessidade 
+crer que,possibilidade_necessidade 
+dever,possibilidade_necessidade 
+duvidar que,possibilidade_necessidade 
+esperar que,possibilidade_necessidade 
+estar certo de,possibilidade_necessidade 
+estar certo que,possibilidade_necessidade 
+parecer que,possibilidade_necessidade 
+pensar que,possibilidade_necessidade 
+poder,possibilidade_necessidade 
+presumir que,possibilidade_necessidade 
+procurar,possibilidade_necessidade 
+querer que,possibilidade_necessidade 
+supor que,possibilidade_necessidade 
+ter de,possibilidade_necessidade 
+ter que,possibilidade_necessidade  
+desejar que,possibilidade_necessidade
+bem,opiniao_valoracao
+bom,opiniao_valoracao
+com franqueza,opiniao_valoracao
+com pesar,opiniao_valoracao
+com prazer,opiniao_valoracao
+prazerosamente,opiniao_valoracao
+é uma pena,opiniao_valoracao
+em especial,opiniao_valoracao
+especialmente,opiniao_valoracao
+notadamente,opiniao_valoracao
+desnecessário,opiniao_valoracao
+desnecessária,opiniao_valoracao
+desnecessariamente,opiniao_valoracao
+difícil,opiniao_valoracao
+dificilmente,opiniao_valoracao
+honestamente,opiniao_valoracao
+para ser honesto,opiniao_valoracao
+para ser honesta,opiniao_valoracao
+sendo honesto,opiniao_valoracao
+sendo honesta,opiniao_valoracao
+excelente,opiniao_valoracao
+felizmente,opiniao_valoracao
+ainda bem,opiniao_valoracao
+francamente,opiniao_valoracao
+para ser franco,opiniao_valoracao
+para ser franca,opiniao_valoracao
+sendo franco,opiniao_valoracao
+sendo franca,opiniao_valoracao
+infelizmente,opiniao_valoracao
+lamentavelmente,opiniao_valoracao
+lamentável,opiniao_valoracao
+mal,opiniao_valoracao
+excelente,opiniao_valoracao
+melhor,opiniao_valoracao
+ótimo,opiniao_valoracao
+ótima,opiniao_valoracao
+particularmente,opiniao_valoracao
+pesarosamente,opiniao_valoracao
+para piorar,opiniao_valoracao
+pior,opiniao_valoracao
+preferível,opiniao_valoracao
+preferivelmente,opiniao_valoracao
+principal,opiniao_valoracao
+principalmente,opiniao_valoracao
+ruim,opiniao_valoracao
+vale a pena,opiniao_valoracao
+a rigor,opiniao_valoracao
+rigorosamente,opiniao_valoracao
+absolutamente,opiniao_valoracao
+absurdamente,opiniao_valoracao
+absurdo,opiniao_valoracao
+absurda,opiniao_valoracao
+altamente,opiniao_valoracao
+amplamente,opiniao_valoracao
+amplo,opiniao_valoracao
+ampla,opiniao_valoracao
+aproximadamente,opiniao_valoracao
+aproximado,opiniao_valoracao
+aproximada,opiniao_valoracao
+próximo,opiniao_valoracao
+próxima,opiniao_valoracao
+bastante,opiniao_valoracao
+categoricamente,opiniao_valoracao
+cerca de,opiniao_valoracao
+como um todo,opiniao_valoracao
+completamente,opiniao_valoracao
+considerável,opiniao_valoracao
+consideravelmente,opiniao_valoracao
+definitivamente,opiniao_valoracao
+demais,opiniao_valoracao
+demasiadamente,opiniao_valoracao
+demasiado,opiniao_valoracao
+demasiada,opiniao_valoracao
+elevado,opiniao_valoracao
+elevada,opiniao_valoracao
+enorme,opiniao_valoracao
+enormemente,opiniao_valoracao
+escassamente,opiniao_valoracao
+escasso,opiniao_valoracao
+escassa,opiniao_valoracao
+estritamente,opiniao_valoracao
+estrito,opiniao_valoracao
+estrita,opiniao_valoracao
+exageradamente,opiniao_valoracao
+excessivamente,opiniao_valoracao
+exagerado,opiniao_valoracao
+exagerada,opiniao_valoracao
+excessivo,opiniao_valoracao
+excessiva,opiniao_valoracao
+exclusivamente,opiniao_valoracao
+exclusivo,opiniao_valoracao
+exclusiva,opiniao_valoracao
+expressamente,opiniao_valoracao 
+extremamente,opiniao_valoracao
+extremo,opiniao_valoracao
+extrema,opiniao_valoracao
+grande,opiniao_valoracao
+grandemente,opiniao_valoracao
+imensamente,opiniao_valoracao
+imenso,opiniao_valoracao
+imensa,opiniao_valoracao
+incrivelmente,opiniao_valoracao
+incrível,opiniao_valoracao
+levemente,opiniao_valoracao
+maioria,opiniao_valoracao
+mais,opiniao_valoracao
+menos,opiniao_valoracao
+meramente,opiniao_valoracao
+minimamente,opiniao_valoracao
+no mínimo,opiniao_valoracao
+minoria,opiniao_valoracao
+muitíssimo,opiniao_valoracao
+muito,opiniao_valoracao
+muita,opiniao_valoracao
+pequeno,opiniao_valoracao
+pequena,opiniao_valoracao
+plenamente,opiniao_valoracao
+meio,opiniao_valoracao
+no máximo,opiniao_valoracao 
+pleno,opiniao_valoracao
+plena,opiniao_valoracao
+pouco,opiniao_valoracao
+pouca,opiniao_valoracao
+pouquíssimo,opiniao_valoracao
+pouquíssima,opiniao_valoracao
+praticamente,opiniao_valoracao
+precisamente,opiniao_valoracao
+quase,opiniao_valoracao
+razoável,opiniao_valoracao
+razoavelmente,opiniao_valoracao
+relativamente,opiniao_valoracao
+relativo,opiniao_valoracao
+relativa,opiniao_valoracao
+rigorosamente,opiniao_valoracao
+significativamente,opiniao_valoracao
+significativo,opiniao_valoracao
+significativa,opiniao_valoracao
+simples,opiniao_valoracao
+simplesmente,opiniao_valoracao
+tanto,opiniao_valoracao
+tanta,opiniao_valoracao
+tão,opiniao_valoracao
+tipicamente,opiniao_valoracao 
+totalmente,opiniao_valoracao
+tremendamente,opiniao_valoracao
+alguns,opiniao_valoracao
+algumas,opiniao_valoracao
+comum,opiniao_valoracao
+comumente,opiniao_valoracao
+geral,opiniao_valoracao
+generalizado,opiniao_valoracao
+generalizada,opiniao_valoracao
+normal,opiniao_valoracao
+predominantemente,opiniao_valoracao
+relevante,opiniao_valoracao
